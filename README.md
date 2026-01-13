@@ -35,7 +35,7 @@ A minimal **JWT authentication demo** built with **React (Vite 5 frontend)** and
 
 ## 📁 Project Structure
 ```
-minimal-jwt-auth/
+jwt-login/
 ├── backend-go/
 │   ├── go.mod
 │   └── main.go
