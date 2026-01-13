@@ -164,3 +164,12 @@ This project demonstrates key JWT security practices:
 ✅ Claims are decoded only after signature + expiry checks  
 
 ⚠️ **This is a demo system** — it does not include refresh tokens or user database storage.
+
+# UI
+<img width="1845" height="963" alt="image" src="https://github.com/user-attachments/assets/e15871f4-8b1c-4f29-acae-30cf36b95d47" />
+
+# Invalid Token
+<img width="1845" height="963" alt="image" src="https://github.com/user-attachments/assets/11ff19b5-7ef5-43b6-9bbf-5ac903e47031" />
+
+# Validate Token
+<img width="1845" height="963" alt="image" src="https://github.com/user-attachments/assets/898e2f84-f086-4d21-9a89-91d4b9677d9d" />
